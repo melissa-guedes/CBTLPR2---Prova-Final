@@ -1,3 +1,5 @@
+//ALUNAS: MELISSA ESCARMELOTO GUEDES E LARYSSA BARBOSA SOARES
+
 import javax.swing.*;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -131,3 +133,4 @@ Connection con = db.getConnection();
         new TelaPaciente();
     }
 }
+
