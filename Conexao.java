@@ -1,3 +1,5 @@
+//ALUNAS: MELISSA ESCARMELOTO GUEDES E LARYSSA BARBOSA SOARES
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 
@@ -46,3 +48,4 @@ public class Conexao {
         }
     }
 }
+
