@@ -1,3 +1,5 @@
+//ALUNAS: MELISSA ESCARMELOTO GUEDES E LARYSSA BARBOSA SOARES
+
 public class Paciente {
 
     private int id;      // ID automático no banco
@@ -26,3 +28,4 @@ public class Paciente {
     public float getPeso() { return peso; }
     public float getAltura() { return altura; }
 }
+
